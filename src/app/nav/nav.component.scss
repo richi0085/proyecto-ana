@@ -1,5 +1,6 @@
 .navbar{
-    background: #EF5350;
+    background: rgb(241,77,99);
+    background: linear-gradient(90deg, rgba(241,77,99,1) 0%, rgba(255,110,110,1) 100%);
     margin: 0px;
     padding: 1em;
     .container{
@@ -18,7 +19,8 @@
 }
 @media only screen and (max-width: 760px){
     .navbar{
-        background: #EF5350;
+        background: rgb(241,77,99);
+        background: linear-gradient(90deg, rgba(241,77,99,1) 0%, rgba(255,110,110,1) 100%);
         margin: 0px;
         padding: 1em;
         .container{
